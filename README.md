@@ -242,6 +242,13 @@
 - [The Beginner’s Guide to Shell Scripting: The Basics](http://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/)
 - [Linux Shell Scripting Tutorial v1.05r3 A Beginner's handbook](http://www.freeos.com/guides/lsst/)
 
+##  Modern Deep Learning & LLM Resources
+
+- [Modern Deep Learning & LLMs (Full Course – freeCodeCamp)](https://www.youtube.com/watch?v=V_xro1bcAuA)
+- [PyTorch Official Documentation](https://pytorch.org/docs/stable/index.html)
+- [TensorFlow Official Guide](https://www.tensorflow.org/guide)
+- [Keras Documentation](https://keras.io/guides/)
+
 ## Other good lists
 - [pycrumbs - Bits and bytes of Python from the Internet](https://github.com/kirang89/pycrumbs)
 - [python github projects - Collect and classify python projects on Github](https://github.com/checkcheckzz/python-github-projects)
