@@ -248,6 +248,9 @@
 - [PyTorch Official Documentation](https://pytorch.org/docs/stable/index.html)
 - [TensorFlow Official Guide](https://www.tensorflow.org/guide)
 - [Keras Documentation](https://keras.io/guides/)
+- [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/index)
+- [Hugging Face Course (Free)](https://huggingface.co/course)
+- [LangChain Documentation](https://python.langchain.com/docs/)
 
 ## Other good lists
 - [pycrumbs - Bits and bytes of Python from the Internet](https://github.com/kirang89/pycrumbs)
