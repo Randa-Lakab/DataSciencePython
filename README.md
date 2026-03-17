@@ -259,6 +259,7 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
+## Documentation / Cheat Sheets
 ## Other good lists
 - [pycrumbs - Bits and bytes of Python from the Internet](https://github.com/kirang89/pycrumbs)
 - [python github projects - Collect and classify python projects on Github](https://github.com/checkcheckzz/python-github-projects)
