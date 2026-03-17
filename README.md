@@ -260,6 +260,12 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ## Documentation / Cheat Sheets
+
+- [Hugging Face – Tasks Overview](https://huggingface.co/tasks)
+- [LangChain Expression Language (LCEL) Docs](https://python.langchain.com/docs/expression_language/)
+- [LlamaIndex Docs](https://docs.llamaindex.ai/)
+- [OpenAI API Reference](https://platform.openai.com/docs/api-reference)
+-  
 ## Other good lists
 - [pycrumbs - Bits and bytes of Python from the Internet](https://github.com/kirang89/pycrumbs)
 - [python github projects - Collect and classify python projects on Github](https://github.com/checkcheckzz/python-github-projects)
